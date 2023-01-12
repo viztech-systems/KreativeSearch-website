@@ -1,0 +1,16 @@
+export const FETCH_JOB = "FETCH_JOB";
+export const FETCH_ALL_JOBS = "FETCH_ALL_JOBS";
+export const CREATE_JOB = "CREATE_JOB";
+export const UPDATE_JOB = "UPDATE_JOB";
+export const DELETE_JOB = "DELETE_JOB";
+
+export const FETCH_RESUMES = "FETCH_RESUMES";
+export const CREATE_RESUME = "CREATE_RESUME";
+export const DELETE_RESUME = "DELETE_RESUME";
+
+export const FETCH_APPROVED_RESUMES = "FETCH_APPROVED_RESUMES";
+export const APPROVE_RESUME = "APPROVE_RESUME";
+export const DELETE_APPROVED_RESUME = "DELETE_APPROVED_RESUME";
+
+export const START_LOADING = "START_LOADING"
+export const END_LOADING = "END_LOADING"
